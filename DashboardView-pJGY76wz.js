@@ -1,0 +1,1 @@
+import{_ as o,b as t,e as s,o as a}from"./index-GOkqsi8G.js";const n={},c={class:"view"};function r(_,e){return a(),t("section",c,[...e[0]||(e[0]=[s("h2",null,"首页概览",-1),s("p",null,"欢迎来到版材成本对比专业版。请选择上方菜单浏览详细信息。",-1)])])}const d=o(n,[["render",r],["__scopeId","data-v-500a4866"]]);export{d as default};
